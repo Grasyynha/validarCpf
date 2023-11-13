@@ -4,7 +4,7 @@ puts "Digite o seu CPF: "
 
 cpf = gets.to_s
 
-cpf = '029.788.209-00'
+cpf = '030.789.209-70'
 
 if CPF.valid?(cpf)
   puts "O CPF #{cpf} é válido."
